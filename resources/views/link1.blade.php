@@ -22,8 +22,8 @@
     </head>
     <body class="antialiased">
             <nav style="display: flex; justify-content: center; margin-top: 4rem;">
-                <a href="/link1">Link1</a>
+                <a href="/">Home</a>
             </nav>
-            <h1 style="text-align: center">Hello world!</h1>
+            <h1 style="text-align: center">Another page.</h1>
     </body>
 </html>
